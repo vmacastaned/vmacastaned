@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Victor 👋
 
-<!--
-**vmacastaned/vmacastaned** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Dual-Degree Engineer (Industrial & Electronics)** with 15+ years architecting high-impact software ecosystems across the public and private sectors.
 
-Here are some ideas to get you started:
+I have a proven track record of delivering mission-critical solutions for **government ministries** (Health & Economy), major **telecommunications** companies (Entel, Claro), **energy** enterprises (Gas Atacama), and highly regulated industries like **finance** (Banco Consorcio) and premium **healthcare** (Clínica Las Condes).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 What I do now
+
+I specialize in **AI-driven development orchestration** and **cloud-native architecture**, leveraging tools like **Claude Code** and **OpenAI Codex** to design hyper-scalable, serverless backend solutions on **AWS** and **GCP**.
+
+By bridging enterprise ERP customization (**Odoo**) with cutting-edge **GenAI integration** and cross-platform frontends (**Flutter**), I transform complex operational challenges into streamlined, automated, and secure digital platforms.
+
+---
+
+### 🛠️ Tech & Tools
+
+`AWS` `GCP` `Odoo` `Flutter` `Claude Code` `OpenAI Codex` `Serverless` `Python` `AI/GenAI Integration`
+
+---
+
+### 📫 Let's connect
+
+Feel free to reach out if you're working on healthtech, government digital transformation, or AI-driven engineering platforms.
